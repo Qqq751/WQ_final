@@ -1,4 +1,3 @@
-# WQ_final
 # Interactive 3D Web Environment
 **Self-Learning Plan Final Assignment**
 
